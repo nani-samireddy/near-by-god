@@ -1,0 +1,69 @@
+1:"$Sreact.fragment"
+2:I[8173,["173","static/chunks/173-3d3988e40b2bb1ff.js","974","static/chunks/app/page-ba26e82c498bd23f.js"],""]
+3:I[7970,["173","static/chunks/173-3d3988e40b2bb1ff.js","239","static/chunks/239-aceb4524bff22d24.js","177","static/chunks/app/layout-3ef2088f1d989583.js"],"Image"]
+4:I[5244,[],""]
+5:I[8725,["39","static/chunks/app/error-75d89c70ed617572.js"],"default"]
+6:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[7401,["219","static/chunks/app/global-error-15ce64c3e8ddbef8.js"],"default"]
+:HL["/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/css/6b2d4f72bcef2e7e.css","style"]
+0:{"P":null,"b":"cKfplIujV9X0x8bTw-qpA","p":"","c":["","songs","telugu","saakshyamichcheda"],"i":false,"f":[[["",{"children":["songs",{"children":[["language","telugu","d"],{"children":[["songSlug","saakshyamichcheda","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6b2d4f72bcef2e7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"A7ZYQdelShfthIXnrZ9wH-ywLVWiyrdgmLQCO-Y8QPs"}]}],["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 antialiased","children":[["$","nav",null,{"className":"flex items-center justify-between px-[4%] md:px-[10%] py-10","children":[["$","$L2",null,{"href":"/","children":["$","$L3",null,{"aria-hidden":true,"src":{"src":"/_next/static/media/logo.793a30c2.svg","height":1080,"width":1763,"blurWidth":0,"blurHeight":0},"alt":"Logo","width":100,"height":100}]}],["$","ul",null,{"className":"flex items-center gap-1 mx-6","children":[["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/","children":["$","span",null,{"className":"text-lg","children":"Songs"}]}]}],["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/about","children":["$","span",null,{"className":"text-lg","children":"About"}]}]}]]}]]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":"404 - Page Not Found"}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"row-start-3 flex gap-6 flex-wrap items-center justify-center text-sm py-10","children":[["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/privacy-policy","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/report","target":"_blank","rel":"noopener noreferrer","children":"Report"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/contribute","target":"_blank","rel":"noopener noreferrer","children":"Contribute Lyrics"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/terms-and-conditions","target":"_blank","rel":"noopener noreferrer","children":"Terms and Conditions"}]]}]]}]]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["language","telugu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["songSlug","saakshyamichcheda","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","CGy_B6xg88CgFMczUNbVO",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:T41f,Saakshyamichcheda
+Mana Swaami Yesu Devu Danchu
+Saakshyamanaga Ganina Vinina
+Sangathulanu Delputaye
+Saakshya Michchu Koraku Nannu
+Swaami Rakshinche Nanchu
+||Saakshyamichcheda||
+
+Dikku Desayu Leni Nannu
+Devudentho Kanikarinchi
+Makkuvatho Naaku Netlu
+Manashshaanthi Nichchinado
+||Saakshyamichcheda||
+
+Palletoolla Janula Rakshana
+Bhaaramu Naa Paini Galadu
+Pillalakunu Beddalakunu
+Brematho Naa Swaanubhavamu
+||Saakshyamichcheda||
+
+Bodha Cheyalenu Vaada
+Mulaku Bonu Naaka Dela
+Naadhu desu Prabhuni Goorchi
+Naaku Delasinantha Varaku
+||Saakshyamichcheda||
+
+Paapulakunu Mithrudanchu
+Braana Mosagi Lechenanchu
+Baapamula Kshaminchu Nanchu
+Brabhuni Vishwasinchu Danchu
+||Saakshyamichcheda||
+
+Choru laina Jaaru lanaa
+Chaaru laina Nevvaraina
+Ghorapaapu laina Kreesthu
+Koormitho rakshinchu Nanchu
+||Saakshyamichcheda||
+
+Paramatha Dooshanamu Laela
+Parihasinchi Paluku Taela
+Irugu Porugu Vaari kella
+Yesu Kreesthu Devu Danchu
+||Saakshyamichcheda||
+
+Ellakaala Moorakunda
+Nela Yaathma Shaanthi Leka
+Thalladillu Vaaralakunu
+Thandri Kumaa Raathma Pera
+||Saakshyamichcheda||
+
+
+7:["$","div",null,{"className":"grid grid-rows-[20px_1fr_20px] items-start justify-items-start md:justify-items-center min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]","children":["$","main",null,{"className":"flex flex-col gap-10 row-start-2 items-center sm:items-start","children":["$undefined",["$","div",null,{"className":"flex flex-col items-start justify-start gap-10","children":[["$","div",null,{"className":"telugu","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"సాక్ష్యమిచ్చెద"}],["$","pre",null,{"className":" whitespace-pre-wrap leading-10","children":"సాక్ష్యమిచ్చెద మన స్వామి యేసు దేవుడంచు\nసాక్ష్యమనగా గనిన వినిన సంగతులను దెల్పుటయే\nసాక్ష్య మిచ్చు కొరకు నన్ను స్వామి రక్షించె నంచు\n||సాక్ష్య||\n\nదిక్కు దెసయు లేని నన్ను దేవుడెంతో కనికరించి\nమక్కువతో నాకు నెట్లు మనశ్శాంతి నిచ్చినడో\n||సాక్ష్య||\n\nపల్లెటూళ్ళ జనుల రక్షణ భారము నా పైని గలదు\nపిల్లలకును బెద్దలకును బ్రేమతో నా స్వానుభవము\n||సాక్ష్య||\n\nబోధ చేయలేను వాద ములకు బోను నాక దేల\nనాధు డేసు ప్రభుని గూర్చి నాకు దెలసినంత వరకు\n||సాక్ష్య||\n\nపాపులకును మిత్రుడంచు బ్రాణ మొసగి లేచెనంచు\nబాపముల క్షమించు నంచు బ్రభుని విశ్వసించు డంచు\n||సాక్ష్య||\n\nచోరు లైన జారు లనా చారు లైన నెవ్వరైన\nఘోరపాపు లైన క్రీస్తు కూర్మితో రక్షించు నంచు\n||సాక్ష్య||\n\nపరమత దూషణము లేల పరిహసించి పలుకు టేల\nఇరుగు పొరుగు వారి కెల్ల యేసు క్రీస్తు దేవు డంచు\n||సాక్ష్య||\n\nఎల్లకాల మూరకుండ నేల యాత్మ శాంతి లేక\nతల్లడిల్లు వారలకును తండ్రి కుమా రాత్మ పేర\n||సాక్ష్య||\n\n\n"}]]}],["$","div",null,{"className":"english","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"Saakshyamichcheda."}],["$","pre",null,{"className":"whitespace-pre-wrap leading-9","children":"$f"}]]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"సాక్ష్యమిచ్చెద - Near By GOD"}],["$","meta","2",{"name":"description","content":"Lyrics for సాక్ష్యమిచ్చెద (Saakshyamichcheda.). Browse more Telugu Christian songs on Near By GOD."}],["$","meta","3",{"name":"keywords","content":"సాక్ష్యమిచ్చెద,Saakshyamichcheda.,Telugu Christian songs,Telugu lyrics,Near By GOD"}],["$","meta","4",{"property":"og:title","content":"సాక్ష్యమిచ్చెద - Near By GOD"}],["$","meta","5",{"property":"og:description","content":"Read the lyrics for సాక్ష్యమిచ్చెద in Telugu and English. Watch the video and enjoy!"}],["$","meta","6",{"property":"og:url","content":"https://nani-samireddy.github.io/nbg/songs/telugu/saakshyamichcheda"}],["$","meta","7",{"property":"og:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"సాక్ష్యమిచ్చెద - Song Thumbnail"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"సాక్ష్యమిచ్చెద - Near By GOD"}],["$","meta","13",{"name":"twitter:description","content":"Read the lyrics for సాక్ష్యమిచ్చెద in Telugu and English. Watch the video and enjoy!"}],["$","meta","14",{"name":"twitter:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","15",{"name":"twitter:image:width","content":"1200"}],["$","meta","16",{"name":"twitter:image:height","content":"630"}],["$","meta","17",{"name":"twitter:image:alt","content":"సాక్ష్యమిచ్చెద - Song Thumbnail"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"1080x1080"}]]
+9:null

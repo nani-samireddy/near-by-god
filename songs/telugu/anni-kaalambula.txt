@@ -1,0 +1,55 @@
+1:"$Sreact.fragment"
+2:I[8173,["173","static/chunks/173-3d3988e40b2bb1ff.js","974","static/chunks/app/page-ba26e82c498bd23f.js"],""]
+3:I[7970,["173","static/chunks/173-3d3988e40b2bb1ff.js","239","static/chunks/239-aceb4524bff22d24.js","177","static/chunks/app/layout-3ef2088f1d989583.js"],"Image"]
+4:I[5244,[],""]
+5:I[8725,["39","static/chunks/app/error-75d89c70ed617572.js"],"default"]
+6:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[7401,["219","static/chunks/app/global-error-15ce64c3e8ddbef8.js"],"default"]
+:HL["/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/css/6b2d4f72bcef2e7e.css","style"]
+0:{"P":null,"b":"cKfplIujV9X0x8bTw-qpA","p":"","c":["","songs","telugu","anni-kaalambula"],"i":false,"f":[[["",{"children":["songs",{"children":[["language","telugu","d"],{"children":[["songSlug","anni-kaalambula","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6b2d4f72bcef2e7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"A7ZYQdelShfthIXnrZ9wH-ywLVWiyrdgmLQCO-Y8QPs"}]}],["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 antialiased","children":[["$","nav",null,{"className":"flex items-center justify-between px-[4%] md:px-[10%] py-10","children":[["$","$L2",null,{"href":"/","children":["$","$L3",null,{"aria-hidden":true,"src":{"src":"/_next/static/media/logo.793a30c2.svg","height":1080,"width":1763,"blurWidth":0,"blurHeight":0},"alt":"Logo","width":100,"height":100}]}],["$","ul",null,{"className":"flex items-center gap-1 mx-6","children":[["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/","children":["$","span",null,{"className":"text-lg","children":"Songs"}]}]}],["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/about","children":["$","span",null,{"className":"text-lg","children":"About"}]}]}]]}]]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":"404 - Page Not Found"}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"row-start-3 flex gap-6 flex-wrap items-center justify-center text-sm py-10","children":[["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/privacy-policy","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/report","target":"_blank","rel":"noopener noreferrer","children":"Report"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/contribute","target":"_blank","rel":"noopener noreferrer","children":"Contribute Lyrics"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/terms-and-conditions","target":"_blank","rel":"noopener noreferrer","children":"Terms and Conditions"}]]}]]}]]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["language","telugu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["songSlug","anni-kaalambula","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","-6Qy0RuP2GC_YQwZq1QEa",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:T46e,Anni Kaalambula – Nunna Yehovaa Ni
+Nennadarambayo – Kanna Thandri
+Vanne Kekkina Moksha – Vaasaali Sannuthu
+Lunnathamai Yunda – Munne Neeku
+||Anni||
+
+Ninnu Brakatana Seya – Nikhila Lokamulanu
+Bannuga Jesina – Baluda Veeve
+Unna Lokambula – Nudugaka Karunaa Sam
+Pannathatho Nelu – Prabhuda Neeve
+Anni Jeevula Nerigi – Yaahaara Michchuchu
+Nunna Sarvagnun – Davu Neeve
+Enna Shakyamugaaka – Unna Lakshanamula
+Sannuthinchutaku Ne – Jaaludunaa
+||Anni||
+
+Puttimpa Neevanchu – Boshimpa Neevanchu
+Gittimpa Neevanchu – Geerthinthunu
+Natti Paniki Maali – Natti Maanavula Che
+Patti Rakshimpa Baa – dhyunda Vanchu
+Dattamaina Krupanu Dari Jercha Naakichchi
+Pattayu Nilachiyundu – Prabhuda Vanchu
+Gattadache Gada – Muttudanuka Naa
+Pattukoladi Ninnu – Brasthuthinthu
+||Anni||
+
+Kaarunya Nidhi Veevu – Katinaathmudanu Nenu
+Bhoori Shudhdhuda Veevu – Paapi Nenu
+Saara Bhaagyuda Veevu – Jagathilo Naakanna
+Daaridrude Ledu – Tharachi Chooda
+Saara Sadgunamula – Sampannudavu Neevu
+Ghora Durguna Sam – Chaari, Nenu
+Ae Reethi Sthuthiyinthu – Ne Reethi Sevinthu
+Nera Mennaka Prova – Nera Nammithi
+||Anni||
+
+
+7:["$","div",null,{"className":"grid grid-rows-[20px_1fr_20px] items-start justify-items-start md:justify-items-center min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]","children":["$","main",null,{"className":"flex flex-col gap-10 row-start-2 items-center sm:items-start","children":["$undefined",["$","div",null,{"className":"flex flex-col items-start justify-start gap-10","children":[["$","div",null,{"className":"telugu","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"అన్ని కాలంబుల"}],["$","pre",null,{"className":" whitespace-pre-wrap leading-10","children":"అన్ని కాలంబుల – నున్న యెహోవా ని\nనెన్నదరంబయో – కన్న తండ్రి\nవన్నె కెక్కిన మోక్ష – వాసాళి సన్నుతు\nలున్నతమై యుండ – మున్నె నీకు\n||అన్ని||\n\nనిన్ను బ్రకటన సేయ – నిఖిల లోకములను\nబన్నుగ జేసిన – బలుడ వీవె\nఉన్న లోకంబుల – నుడుగక కరుణా సం\nపన్నతతో నేలు – ప్రభుడ వీవె\nఅన్ని జీవుల నెరిగి – యాహార మిచ్చుచు\nనున్న సర్వజ్ఞుo – డవు నీవే\nఎన్న శక్యముగాక – ఉన్న లక్షణముల\nసన్నుతించుటకు నే – జాలుదునా\n||అన్ని||\n\nపుట్టింప నీవంచు – బోషింప నీవంచు\nగిట్టింప నీవంచు – గీర్తింతును\nనట్టి పనికి మాలి – నట్టి మానవుల చే\nపట్టి రక్షింప బా – ధ్యుండ వంచు\nదట్టమైన కృపను దరి జేర్చ నాకిచ్చి\nపట్టయు నిలచియుండు – ప్రభుడ వంచు\nగట్టడచే గడ – ముట్టుదనుక నా\nపట్టుకొలది నిన్ను – బ్రస్తుతింతు\n||అన్ని||\n\nకారుణ్య నిధి వీవు – కఠినాత్ముడను నేను\nభూరి శుద్ధుడ వీవు – పాపి నేను\nసార భాగ్యుడ వీవు – జగతిలో నాకన్న\nదారిద్రుడే లేడు – తరచి చూడ\nసార సద్గుణముల – సంపన్నుడవు నీవు\nఘోర దుర్గుణ సం – చారి, నేను\nఏ రీతి స్తుతియింతు – నే రీతి సేవింతు\nనేర మెన్నక ప్రోవ – నెర నమ్మితి\n||అన్ని||\n\n\n"}]]}],["$","div",null,{"className":"english","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"Anni Kaalambula."}],["$","pre",null,{"className":"whitespace-pre-wrap leading-9","children":"$f"}]]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"అన్ని కాలంబుల - Near By GOD"}],["$","meta","2",{"name":"description","content":"Lyrics for అన్ని కాలంబుల (Anni Kaalambula.). Browse more Telugu Christian songs on Near By GOD."}],["$","meta","3",{"name":"keywords","content":"అన్ని కాలంబుల,Anni Kaalambula.,Telugu Christian songs,Telugu lyrics,Near By GOD"}],["$","meta","4",{"property":"og:title","content":"అన్ని కాలంబుల - Near By GOD"}],["$","meta","5",{"property":"og:description","content":"Read the lyrics for అన్ని కాలంబుల in Telugu and English. Watch the video and enjoy!"}],["$","meta","6",{"property":"og:url","content":"https://nani-samireddy.github.io/nbg/songs/telugu/anni-kaalambula"}],["$","meta","7",{"property":"og:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"అన్ని కాలంబుల - Song Thumbnail"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"అన్ని కాలంబుల - Near By GOD"}],["$","meta","13",{"name":"twitter:description","content":"Read the lyrics for అన్ని కాలంబుల in Telugu and English. Watch the video and enjoy!"}],["$","meta","14",{"name":"twitter:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","15",{"name":"twitter:image:width","content":"1200"}],["$","meta","16",{"name":"twitter:image:height","content":"630"}],["$","meta","17",{"name":"twitter:image:alt","content":"అన్ని కాలంబుల - Song Thumbnail"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"1080x1080"}]]
+9:null

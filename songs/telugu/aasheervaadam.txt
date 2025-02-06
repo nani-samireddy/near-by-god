@@ -1,0 +1,118 @@
+1:"$Sreact.fragment"
+2:I[8173,["173","static/chunks/173-3d3988e40b2bb1ff.js","974","static/chunks/app/page-ba26e82c498bd23f.js"],""]
+3:I[7970,["173","static/chunks/173-3d3988e40b2bb1ff.js","239","static/chunks/239-aceb4524bff22d24.js","177","static/chunks/app/layout-3ef2088f1d989583.js"],"Image"]
+4:I[5244,[],""]
+5:I[8725,["39","static/chunks/app/error-75d89c70ed617572.js"],"default"]
+6:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[7401,["219","static/chunks/app/global-error-15ce64c3e8ddbef8.js"],"default"]
+:HL["/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/css/6b2d4f72bcef2e7e.css","style"]
+0:{"P":null,"b":"cKfplIujV9X0x8bTw-qpA","p":"","c":["","songs","telugu","aasheervaadam"],"i":false,"f":[[["",{"children":["songs",{"children":[["language","telugu","d"],{"children":[["songSlug","aasheervaadam","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6b2d4f72bcef2e7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"A7ZYQdelShfthIXnrZ9wH-ywLVWiyrdgmLQCO-Y8QPs"}]}],["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 antialiased","children":[["$","nav",null,{"className":"flex items-center justify-between px-[4%] md:px-[10%] py-10","children":[["$","$L2",null,{"href":"/","children":["$","$L3",null,{"aria-hidden":true,"src":{"src":"/_next/static/media/logo.793a30c2.svg","height":1080,"width":1763,"blurWidth":0,"blurHeight":0},"alt":"Logo","width":100,"height":100}]}],["$","ul",null,{"className":"flex items-center gap-1 mx-6","children":[["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/","children":["$","span",null,{"className":"text-lg","children":"Songs"}]}]}],["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/about","children":["$","span",null,{"className":"text-lg","children":"About"}]}]}]]}]]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":"404 - Page Not Found"}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"row-start-3 flex gap-6 flex-wrap items-center justify-center text-sm py-10","children":[["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/privacy-policy","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/report","target":"_blank","rel":"noopener noreferrer","children":"Report"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/contribute","target":"_blank","rel":"noopener noreferrer","children":"Contribute Lyrics"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/terms-and-conditions","target":"_blank","rel":"noopener noreferrer","children":"Terms and Conditions"}]]}]]}]]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["language","telugu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["songSlug","aasheervaadam","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","fWZZHED8sNIymQcxpsWc9",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:Ta8d,యెహోవా దీవించి – కాపాడును గాక
+తన సన్నిధి కాంతితో
+నిను కరుణించును గాక
+నీ వైపు తన ముఖమును చూపి
+శాంతినిచ్చును గాక (2)
+ఆ.. ఆ.. ఆ.. ఆమెన్ ఆమెన్ ఆ.. ఆమెన్
+ఆ.. ఆ.. ఆ.. ఆమెన్ ఆమెన్ ఆ.. ఆమెన్
+యెహోవా దీవించి – కాపాడును గాక
+తన సన్నిధి కాంతితో
+నిను కరుణించును గాక
+నీ వైపు తన ముఖమును చూపి
+శాంతినిచ్చును గాక
+ఆ.. ఆ.. ఆ.. ఆమెన్ ఆమెన్ ఆ.. ఆమెన్
+ఆ.. ఆ.. ఆ.. ఆమెన్ ఆమెన్ ఆ.. ఆమెన్ (2)
+తన జాలి – నీ పైన
+వెయ్యి తరములు – ఉండు గాక
+నీ వంశం – సంతానం
+వారి పిల్లల – వారి పిల్లలు (4)
+నీ ముందు – నీ వెనుక
+నీ పక్కన – నీ చుట్టూ
+నీతోనూ – నీలోనూ
+తన సన్నిధి ఉండు గాక
+ఉదయాన – సాయంత్రం
+నీ రాక – పోకలలో
+కన్నీటిలో – సంతోశంలో
+నీ పక్షం – నీ తోడు
+నీ నీడగా – ఉంటాడు
+మన ప్రభువు – నీ వాడు
+నా వాడు – మన వాడు
+ఆ.. ఆ.. ఆ.. ఆమెన్ ఆమెన్ ఆ.. ఆమెన్
+ఆ.. ఆ.. ఆ.. ఆమెన్ ఆమెన్ ఆ.. ఆమెన్
+తన జాలి – నీ పైన
+వెయ్యి తరములు – ఉండు గాక
+నీ వంశం – సంతానం
+వారి పిల్లల – వారి పిల్లలు
+నీ ముందు – నీ వెనుక
+నీ పక్కన – నీ చుట్టూ
+నీతోనూ – నీలోనూ
+తన సన్నిధి ఉండు గాక
+ఉదయాన – సాయంత్రం
+నీ రాక – పోకలలో
+కన్నీటిలో – సంతోషంలో
+నీ పక్షం – నీ తోడు
+నీ నీడగా – ఉంటాడు
+మన ప్రభువు – నీ వాడు
+నా వాడు – మన వాడు
+నీ కోసం ఉంటాడు – నీ కోసం ఉంటాడు
+నీ కోసం ఉంటాడు – నీ కోసం ఉంటాడు
+
+10:T5c9,Yehovaa Deevinchi – Kaapadunu Gaaka
+Thana Sannidhi Kaanthitho
+Ninu Karuninchunu Gaaka
+Nee Vaipu Thana Mukhamunu Choopi
+Shaanthinichchunu Gaaka (2)
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen
+Yehovaa Deevinchi – Kaapadunu Gaaka
+Thana Sannidhi Kaanthitho
+Ninu Karuninchunu Gaaka
+Nee Vaipu Thana Mukhamunu Choopi
+Shaanthinichchunu Gaaka
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen (2)
+Thana Jaali – Neepaina
+Veyyi Tharamulu -Undu Gaaka
+Nee Vamsham – Santhaanam
+Vaari Pillala – Vaari Pillalu (3)
+Nee Mundu – Nee Vunuka
+Nee Pakkana – Nee Chuttu
+Neethonu – Neelonu
+Thana Sannidhi – Undu Gaaka
+Udayaana – Saayanthram
+Nee Raaka – Pokalalo
+Kanneetilo – Santhoshamlo
+Nee Paksham – Nee Thodu
+Nee Needagaa – Untaadu
+Mana Prabhuvu – Nee Vaadu
+Naa Vaadu – Mana Vaadu
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen
+Thana Jaali – Neepaina
+Veyyi Tharamulu -Undu Gaaka
+Nee Vamsham – Santhaanam
+Vaari Pillala – Vaari Pillalu
+Nee Mundu – Nee Vunuka
+Nee Pakkana – Nee Chuttu
+Neethonu – Neelonu
+Thana Sannidhi – Undu Gaaka
+Udayaana – Saayanthram
+Nee Raaka – Pokalalo
+Kanneetilo – Santhoshamlo
+Nee Paksham – Nee Thodu
+Nee Needagaa – Untaadu
+Mana Prabhuvu – Nee Vaadu
+Naa Vaadu – Mana Vaadu
+Nee Kosam Untaadu – Nee Kosam Untaadu
+Nee Kosam Untaadu – Nee Kosam Untaadu
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen
+Aa.. Aa.. Aa.. Aamen Aamen Aa.. Aamen (3)
+
+7:["$","div",null,{"className":"grid grid-rows-[20px_1fr_20px] items-start justify-items-start md:justify-items-center min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]","children":["$","main",null,{"className":"flex flex-col gap-10 row-start-2 items-center sm:items-start","children":["$undefined",["$","div",null,{"className":"flex flex-col items-start justify-start gap-10","children":[["$","div",null,{"className":"telugu","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"ఆశీర్వాదం"}],["$","pre",null,{"className":" whitespace-pre-wrap leading-10","children":"$f"}]]}],["$","div",null,{"className":"english","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"Aasheervaadam."}],["$","pre",null,{"className":"whitespace-pre-wrap leading-9","children":"$10"}]]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"ఆశీర్వాదం - Near By GOD"}],["$","meta","2",{"name":"description","content":"Lyrics for ఆశీర్వాదం (Aasheervaadam.). Browse more Telugu Christian songs on Near By GOD."}],["$","meta","3",{"name":"keywords","content":"ఆశీర్వాదం,Aasheervaadam.,Telugu Christian songs,Telugu lyrics,Near By GOD"}],["$","meta","4",{"property":"og:title","content":"ఆశీర్వాదం - Near By GOD"}],["$","meta","5",{"property":"og:description","content":"Read the lyrics for ఆశీర్వాదం in Telugu and English. Watch the video and enjoy!"}],["$","meta","6",{"property":"og:url","content":"https://nani-samireddy.github.io/nbg/songs/telugu/aasheervaadam"}],["$","meta","7",{"property":"og:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"ఆశీర్వాదం - Song Thumbnail"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"ఆశీర్వాదం - Near By GOD"}],["$","meta","13",{"name":"twitter:description","content":"Read the lyrics for ఆశీర్వాదం in Telugu and English. Watch the video and enjoy!"}],["$","meta","14",{"name":"twitter:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","15",{"name":"twitter:image:width","content":"1200"}],["$","meta","16",{"name":"twitter:image:height","content":"630"}],["$","meta","17",{"name":"twitter:image:alt","content":"ఆశీర్వాదం - Song Thumbnail"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"1080x1080"}]]
+9:null

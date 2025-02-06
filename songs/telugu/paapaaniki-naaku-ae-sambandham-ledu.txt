@@ -1,0 +1,122 @@
+1:"$Sreact.fragment"
+2:I[8173,["173","static/chunks/173-3d3988e40b2bb1ff.js","974","static/chunks/app/page-ba26e82c498bd23f.js"],""]
+3:I[7970,["173","static/chunks/173-3d3988e40b2bb1ff.js","239","static/chunks/239-aceb4524bff22d24.js","177","static/chunks/app/layout-3ef2088f1d989583.js"],"Image"]
+4:I[5244,[],""]
+5:I[8725,["39","static/chunks/app/error-75d89c70ed617572.js"],"default"]
+6:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[7401,["219","static/chunks/app/global-error-15ce64c3e8ddbef8.js"],"default"]
+:HL["/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/css/6b2d4f72bcef2e7e.css","style"]
+0:{"P":null,"b":"cKfplIujV9X0x8bTw-qpA","p":"","c":["","songs","telugu","paapaaniki-naaku-ae-sambandham-ledu"],"i":false,"f":[[["",{"children":["songs",{"children":[["language","telugu","d"],{"children":[["songSlug","paapaaniki-naaku-ae-sambandham-ledu","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6b2d4f72bcef2e7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"A7ZYQdelShfthIXnrZ9wH-ywLVWiyrdgmLQCO-Y8QPs"}]}],["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 antialiased","children":[["$","nav",null,{"className":"flex items-center justify-between px-[4%] md:px-[10%] py-10","children":[["$","$L2",null,{"href":"/","children":["$","$L3",null,{"aria-hidden":true,"src":{"src":"/_next/static/media/logo.793a30c2.svg","height":1080,"width":1763,"blurWidth":0,"blurHeight":0},"alt":"Logo","width":100,"height":100}]}],["$","ul",null,{"className":"flex items-center gap-1 mx-6","children":[["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/","children":["$","span",null,{"className":"text-lg","children":"Songs"}]}]}],["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/about","children":["$","span",null,{"className":"text-lg","children":"About"}]}]}]]}]]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":"404 - Page Not Found"}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"row-start-3 flex gap-6 flex-wrap items-center justify-center text-sm py-10","children":[["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/privacy-policy","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/report","target":"_blank","rel":"noopener noreferrer","children":"Report"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/contribute","target":"_blank","rel":"noopener noreferrer","children":"Contribute Lyrics"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/terms-and-conditions","target":"_blank","rel":"noopener noreferrer","children":"Terms and Conditions"}]]}]]}]]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["language","telugu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["songSlug","paapaaniki-naaku-ae-sambandham-ledu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","XlycQD0Z7fsMn09KHUEUw",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:Tff9,పాపానికి నాకు ఏ సంబంధం లేదు
+పాపానికి నాపై ఏ అధికారము లేదు
+పాపానికి నాకు ఏ సంబంధం లేదు
+పాపానికి నాపై ఏ అజమాయిషీ లేదు
+నా పాపములు అన్ని – నా ప్రభువు ఏనాడో క్షమియించివేసాడుగా
+మరి వాటినెన్నడును – జ్ఞాపకము చేసికొనెను
+అని మాట ఇచ్చాడుగా
+నేనున్నా నేనున్నా – నా యేసుని కృప క్రింద
+నే లేను నే లేను – ధర్మశాస్త్రం క్రింద (2)
+||పాపానికి||
+
+కృప ఉందని పాపం చెయ్యొచ్చా – అట్లనరాదు
+కృప ఉందని నీతిని విడువోచ్చా (అట్లనరాదు)
+కృప అంటే లైసెన్స్ కాదు
+కృప అంటే ఫ్రీ పాస్ కాదు – పాపాన్ని చేసేందుకు
+కృప అంటే దేవుని శక్తి
+కృప అంటే దేవుని నీతి – పాపాన్ని గెలిచేందుకు
+గ్రేస్ ఈస్ నాట్ ఎ లైసెన్స్ టు సిన్
+ఇట్స్ ఎ పవర్ ఆఫ్ గాడ్ టు ఓవర్ కం (4)
+||నేనున్నా||
+
+కృప ద్వారా ధర్మశాస్త్రముకు – మృతుడను అయ్యా
+కృప వలన క్రీస్తులో స్వాతంత్య్రం (నే పొందితినయ్యా)
+క్రియల మూలముగా కాదు
+కృపయే నను రక్షించినది – నా భారం తొలగించినది
+కృప నన్ను మార్చేసినది
+నీతి సద్భక్తుల తోడ – బ్రతుకమని బోధించినది
+గ్రేస్ టుక్ అవే బర్డెన్ ఫ్రమ్ మి
+అండ్ టాట్ మి టు లివ్ రైటియస్లీ (4)
+||నేనున్నా||
+
+పాపానికి మృతుడను నేనయ్యా – హల్లెలూయా
+కృప వలనే ఇది నాకు సాధ్యం (అయ్యిందిరా భయ్యా) (2)
+కృపను రుచి చూచిన నేను
+దేవునికే లోబడుతాను – పాపానికి చోటివ్వను
+పరిశుద్ధత పొందిన నేను
+నీతి సాధనములుగానే – దేహం ప్రభుకర్పింతును
+యీల్డ్ యువర్ బాడీస్ అంటు ద లార్డ్
+యాస్ ఇన్స్ట్రుమెంట్స్ ఆఫ్ రైటియస్నెస్ (4)
+||నేనున్నా||
+
+ధర్మశాస్త్రం పాపం అయ్యిందా – అట్లనరాదు
+ధర్మశాస్త్రం వ్యర్థం అయ్యిందా (అట్లనరాదు) (2)
+ధర్మశాస్త్రం కొంత కాలమేగా
+ధర్మశాస్త్రం బాలశిక్షయేగా – ప్రభునొద్దకు నడిపేందుకు
+క్రీస్తొచ్చి కృప తెచ్చెనుగా
+ధర్మశాస్త్రం నెరవేర్చెనుగా – మనలను విడిపించేందుకు
+లా హాస్ లెడ్ పీపుల్ టు క్రైస్ట్
+నౌ గ్రేస్ విల్ మేక్ అస్ కాంకరర్స్ (4)
+||నేనున్నా||
+
+
+10:T71c,Paapaaniki Naaku Ae Sambandham Ledu
+Paapaaniki Naapai Ae Adhikaaramu Ledu
+Paapaaniki Naaku Ae Sambandham Ledu
+Paapaaniki Naapai Ae Ajamaayishi Ledu
+Naa Paapamulu Anni – Naa Prabhuvu Aenaado Kshamiyinchivesaadugaa
+Mari Vaatinennadunu – Gnaapakamu Chesikonanu
+Ani Maata Ichchaadugaa
+Nenunnaa Nenunnaa – Naa Yesuni Krupa Krinda
+Ne Lenu Ne Lenu – Dharmashaasthram Krinda (2)
+||Paapaniki||
+
+Krupa Undani Paapam Cheyyochchaa – Atlanaraadu
+Krupa Undani Neethini Viduvochchaa – Atlanaraadu
+Krupa Ante License Kaadu
+Krupa Ante Free Pass Kaadu – Paapaanni Chesenduku
+Krupa Ante Devuni Shakthi
+Krupa Ante Devuni Neethi – Paapaanni Gelichenduku
+Grace is not a license to sin
+It’s a power of God to overcome (4)
+||Nenunnaa||
+
+Krupa Dhwaara Dharmashaasthramuku – Mruthudanu Ayyaa
+Krupa Valana Kreesthulo Swaathanthryam (Ne Pondithinayyaa)
+Kriyala Moolamugaa Kaadu
+Krupaye Nanu Rakshinchinadi – Naa Bhaaram Tholaginchinadi
+Krupa Nannu Maarchesinadi
+Neethi Sadbhakthula Thoda – Brathukamani Bodhinchinadi
+Grace took away burden from me
+And taught me to live righteously (4)
+||Nenunnaa||
+
+Paapaniki Mruthudanu Nenayyaa – Hallelooyaa
+Krupa Velane Idi Naaku Saadhyam (Ayyindiraa Bhayyaa) (2)
+Krupanu Ruchi Choochina Nenu
+Devunike Lobaduthaanu – Paapaaniki Chotivvanu
+Parishuddhatha Pondina Nenu
+Neethi Saadhanamulugaane – Deham Prabhukarpinthunu
+Yield your bodies unto the Lord
+As instruments of righteousness (4)
+||Nenunnaa||
+
+Dharmashaasthram Paapam Ayyindaa – Atlanaraadu
+Dharmashaasthram Vyardham Ayyindaa (Atlanaraadu) (2)
+Dharmashaasthram Kontha Kaalamegaa
+Dharmashaasthram Baalashikshayegaa – Prabhunoddaku Nadipenduku
+Kreesthochchi Krupa Thechchenugaa
+Dharmashaasthram Neraverchenugaa – Manalanu Vidipinchenduku
+Law has lead people to Christ
+Now Grace will make us Conquerors (4)
+||Nenunnaa||
+
+
+7:["$","div",null,{"className":"grid grid-rows-[20px_1fr_20px] items-start justify-items-start md:justify-items-center min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]","children":["$","main",null,{"className":"flex flex-col gap-10 row-start-2 items-center sm:items-start","children":["$undefined",["$","div",null,{"className":"flex flex-col items-start justify-start gap-10","children":[["$","div",null,{"className":"telugu","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"పాపానికి నాకు ఏ సంబంధం లేదు"}],["$","pre",null,{"className":" whitespace-pre-wrap leading-10","children":"$f"}]]}],["$","div",null,{"className":"english","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"Paapaaniki Naaku Ae Sambandham Ledu."}],["$","pre",null,{"className":"whitespace-pre-wrap leading-9","children":"$10"}]]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"పాపానికి నాకు ఏ సంబంధం లేదు - Near By GOD"}],["$","meta","2",{"name":"description","content":"Lyrics for పాపానికి నాకు ఏ సంబంధం లేదు (Paapaaniki Naaku Ae Sambandham Ledu.). Browse more Telugu Christian songs on Near By GOD."}],["$","meta","3",{"name":"keywords","content":"పాపానికి నాకు ఏ సంబంధం లేదు,Paapaaniki Naaku Ae Sambandham Ledu.,Telugu Christian songs,Telugu lyrics,Near By GOD"}],["$","meta","4",{"property":"og:title","content":"పాపానికి నాకు ఏ సంబంధం లేదు - Near By GOD"}],["$","meta","5",{"property":"og:description","content":"Read the lyrics for పాపానికి నాకు ఏ సంబంధం లేదు in Telugu and English. Watch the video and enjoy!"}],["$","meta","6",{"property":"og:url","content":"https://nani-samireddy.github.io/nbg/songs/telugu/paapaaniki-naaku-ae-sambandham-ledu"}],["$","meta","7",{"property":"og:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"పాపానికి నాకు ఏ సంబంధం లేదు - Song Thumbnail"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"పాపానికి నాకు ఏ సంబంధం లేదు - Near By GOD"}],["$","meta","13",{"name":"twitter:description","content":"Read the lyrics for పాపానికి నాకు ఏ సంబంధం లేదు in Telugu and English. Watch the video and enjoy!"}],["$","meta","14",{"name":"twitter:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","15",{"name":"twitter:image:width","content":"1200"}],["$","meta","16",{"name":"twitter:image:height","content":"630"}],["$","meta","17",{"name":"twitter:image:alt","content":"పాపానికి నాకు ఏ సంబంధం లేదు - Song Thumbnail"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"1080x1080"}]]
+9:null

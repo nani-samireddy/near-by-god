@@ -1,0 +1,71 @@
+1:"$Sreact.fragment"
+2:I[8173,["173","static/chunks/173-3d3988e40b2bb1ff.js","974","static/chunks/app/page-ba26e82c498bd23f.js"],""]
+3:I[7970,["173","static/chunks/173-3d3988e40b2bb1ff.js","239","static/chunks/239-aceb4524bff22d24.js","177","static/chunks/app/layout-3ef2088f1d989583.js"],"Image"]
+4:I[5244,[],""]
+5:I[8725,["39","static/chunks/app/error-75d89c70ed617572.js"],"default"]
+6:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[7401,["219","static/chunks/app/global-error-15ce64c3e8ddbef8.js"],"default"]
+:HL["/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/css/6b2d4f72bcef2e7e.css","style"]
+0:{"P":null,"b":"cKfplIujV9X0x8bTw-qpA","p":"","c":["","songs","telugu","devara-nee-deevenalu"],"i":false,"f":[[["",{"children":["songs",{"children":[["language","telugu","d"],{"children":[["songSlug","devara-nee-deevenalu","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6b2d4f72bcef2e7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"A7ZYQdelShfthIXnrZ9wH-ywLVWiyrdgmLQCO-Y8QPs"}]}],["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 antialiased","children":[["$","nav",null,{"className":"flex items-center justify-between px-[4%] md:px-[10%] py-10","children":[["$","$L2",null,{"href":"/","children":["$","$L3",null,{"aria-hidden":true,"src":{"src":"/_next/static/media/logo.793a30c2.svg","height":1080,"width":1763,"blurWidth":0,"blurHeight":0},"alt":"Logo","width":100,"height":100}]}],["$","ul",null,{"className":"flex items-center gap-1 mx-6","children":[["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/","children":["$","span",null,{"className":"text-lg","children":"Songs"}]}]}],["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/about","children":["$","span",null,{"className":"text-lg","children":"About"}]}]}]]}]]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":"404 - Page Not Found"}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"row-start-3 flex gap-6 flex-wrap items-center justify-center text-sm py-10","children":[["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/privacy-policy","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/report","target":"_blank","rel":"noopener noreferrer","children":"Report"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/contribute","target":"_blank","rel":"noopener noreferrer","children":"Contribute Lyrics"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/terms-and-conditions","target":"_blank","rel":"noopener noreferrer","children":"Terms and Conditions"}]]}]]}]]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["language","telugu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["songSlug","devara-nee-deevenalu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","0k-I74aBrMPuo6HcvBhNl",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:T446,Devara Nee Deevenalu
+Dhaaraalamuganu Veeralapai
+Baaguga Vegame Diganimmu
+Paavana Yesuni Dvaaraganu (2)
+Dampathulu Dandiga Nee
+Dhaathrilo Velayuchu Sampadalan
+Sompuga Nimpuga Pempaguchu
+Sahimpuna Veeru Sukhinchutakai
+||Devara Nee||
+
+Ee Kavanu Nee Karunan
+Aakaru Varakunu Lokamulo
+Shokamu Lekaye Ekamugaa
+Braakatamuganu Jekonumu
+||Devara Nee||
+
+Ippagidi Neppudunu
+Goppagu Prematho Noppuchu Daa
+Moppina Choppuna Dappakanu
+Meppuga Brathukaga Bampu Krupan
+||Devara Nee||
+
+Thaapamulu Paapamulu
+Mopuga Veeripai Raakundagaa
+Gaapuga Braapuga Daapunundi
+Yaapadalanniyu Baapuchunu
+||Devara Nee||
+
+Saadhulugan Jeyutakai
+Shodhanalache Neevu Shodhinpagaa
+Kadalaka Vadalaka Mudamuna Nee
+Paadamu Daapuna Baadukonan
+||Devara Nee||
+
+Menduga Bhoomandalapu
+Gandamulalo Veerundaganu
+Thandriga Dandiga Nandanundi
+Vendiyu Vaanini Khandinchave
+||Devara Nee||
+
+Iddara Veeriddarunu
+Shudhdhulai Ninnu Sevinchutakai
+Shradhdhatho Budhdhiga Sidhdhapadan
+Didhdhumu Nee Priya Biddalugaan
+||Devara Nee||
+
+Vaasiga Nee Daasulamu
+Chesina Ee Moral Deesikoni
+Maa Sakaleshwara Nee Suthuda
+Yesuni Perita Brovumaamen
+||Devara Nee||
+
+
+7:["$","div",null,{"className":"grid grid-rows-[20px_1fr_20px] items-start justify-items-start md:justify-items-center min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]","children":["$","main",null,{"className":"flex flex-col gap-10 row-start-2 items-center sm:items-start","children":["$undefined",["$","div",null,{"className":"flex flex-col items-start justify-start gap-10","children":[["$","div",null,{"className":"telugu","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"దేవర నీ దీవెనలు"}],["$","pre",null,{"className":" whitespace-pre-wrap leading-10","children":"దేవర నీ దీవెనలు\nధారాళముగను వీరలపై\nబాగుగ వేగమే దిగనిమ్ము\nపావన యేసుని ద్వారగను (2)\nదంపతులు దండిగ నీ\nధాత్రిలో వెలయుచు సంపదలన్\nసొంపుగ నింపుగ పెంపగుచు\nసహింపున వీరు సుఖించుటకై\n||దేవర నీ||\n\nఈ కవను నీ కరుణన్\nఆకరు వరకును లోకములో\nశోకము లేకయే ఏకముగా\nబ్రాకటముగను జేకొనుము\n||దేవర నీ||\n\nఇప్పగిది నెప్పుడును\nగొప్పగు ప్రేమతో నొప్పుచు దా\nమొప్పిన చొప్పున దప్పకను\nమెప్పుగ బ్రతుకగ బంపు కృపన్\n||దేవర నీ||\n\nతాపములు పాపములు\nమోపుగ వీరిపై రాకుండగా\nగాపుగ బ్రాపుగ దాపునుండి\nయాపదలన్నియు బాపుచును\n||దేవర నీ||\n\nసాధులుగన్ జేయుటకై\nశోధనలచే నీవు శోధింపగా\nకదలక వదలక ముదమున నీ\nపాదము దాపున బాదుకొనన్\n||దేవర నీ||\n\nమెండుగ భూమండలపు\nగండములలో వీరుండగను\nతండ్రిగ దండిగ నండనుండి\nవెండియు వానిని ఖండించావే\n||దేవర నీ||\n\nయిద్దరు వీరిద్దరును\nశుద్ధులై నిన్ను సేవించుటకై\nశ్రద్ధతో బుద్ధిగ సిధ్ధపడన్\nదిద్దుము నీ ప్రియ బిడ్డలుగాన్\n||దేవర నీ||\n\nవాసిగ నీ దాసులము\nచేసిన ఈ మొఱ్ఱల్ దీసికొని\nమా సకలేశ్వర నీ సుతుడ\nయేసుని పేరిట బ్రోవుమామేన్\n||దేవర నీ||\n\n\n"}]]}],["$","div",null,{"className":"english","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"Devara Nee Deevenalu."}],["$","pre",null,{"className":"whitespace-pre-wrap leading-9","children":"$f"}]]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"దేవర నీ దీవెనలు - Near By GOD"}],["$","meta","2",{"name":"description","content":"Lyrics for దేవర నీ దీవెనలు (Devara Nee Deevenalu.). Browse more Telugu Christian songs on Near By GOD."}],["$","meta","3",{"name":"keywords","content":"దేవర నీ దీవెనలు,Devara Nee Deevenalu.,Telugu Christian songs,Telugu lyrics,Near By GOD"}],["$","meta","4",{"property":"og:title","content":"దేవర నీ దీవెనలు - Near By GOD"}],["$","meta","5",{"property":"og:description","content":"Read the lyrics for దేవర నీ దీవెనలు in Telugu and English. Watch the video and enjoy!"}],["$","meta","6",{"property":"og:url","content":"https://nani-samireddy.github.io/nbg/songs/telugu/devara-nee-deevenalu"}],["$","meta","7",{"property":"og:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"దేవర నీ దీవెనలు - Song Thumbnail"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"దేవర నీ దీవెనలు - Near By GOD"}],["$","meta","13",{"name":"twitter:description","content":"Read the lyrics for దేవర నీ దీవెనలు in Telugu and English. Watch the video and enjoy!"}],["$","meta","14",{"name":"twitter:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","15",{"name":"twitter:image:width","content":"1200"}],["$","meta","16",{"name":"twitter:image:height","content":"630"}],["$","meta","17",{"name":"twitter:image:alt","content":"దేవర నీ దీవెనలు - Song Thumbnail"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"1080x1080"}]]
+9:null

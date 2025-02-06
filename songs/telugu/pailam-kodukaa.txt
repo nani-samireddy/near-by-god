@@ -1,0 +1,166 @@
+1:"$Sreact.fragment"
+2:I[8173,["173","static/chunks/173-3d3988e40b2bb1ff.js","974","static/chunks/app/page-ba26e82c498bd23f.js"],""]
+3:I[7970,["173","static/chunks/173-3d3988e40b2bb1ff.js","239","static/chunks/239-aceb4524bff22d24.js","177","static/chunks/app/layout-3ef2088f1d989583.js"],"Image"]
+4:I[5244,[],""]
+5:I[8725,["39","static/chunks/app/error-75d89c70ed617572.js"],"default"]
+6:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[7401,["219","static/chunks/app/global-error-15ce64c3e8ddbef8.js"],"default"]
+:HL["/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/css/6b2d4f72bcef2e7e.css","style"]
+0:{"P":null,"b":"cKfplIujV9X0x8bTw-qpA","p":"","c":["","songs","telugu","pailam-kodukaa"],"i":false,"f":[[["",{"children":["songs",{"children":[["language","telugu","d"],{"children":[["songSlug","pailam-kodukaa","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6b2d4f72bcef2e7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"A7ZYQdelShfthIXnrZ9wH-ywLVWiyrdgmLQCO-Y8QPs"}]}],["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 antialiased","children":[["$","nav",null,{"className":"flex items-center justify-between px-[4%] md:px-[10%] py-10","children":[["$","$L2",null,{"href":"/","children":["$","$L3",null,{"aria-hidden":true,"src":{"src":"/_next/static/media/logo.793a30c2.svg","height":1080,"width":1763,"blurWidth":0,"blurHeight":0},"alt":"Logo","width":100,"height":100}]}],["$","ul",null,{"className":"flex items-center gap-1 mx-6","children":[["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/","children":["$","span",null,{"className":"text-lg","children":"Songs"}]}]}],["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/about","children":["$","span",null,{"className":"text-lg","children":"About"}]}]}]]}]]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":"404 - Page Not Found"}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"row-start-3 flex gap-6 flex-wrap items-center justify-center text-sm py-10","children":[["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/privacy-policy","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/report","target":"_blank","rel":"noopener noreferrer","children":"Report"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/contribute","target":"_blank","rel":"noopener noreferrer","children":"Contribute Lyrics"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/terms-and-conditions","target":"_blank","rel":"noopener noreferrer","children":"Terms and Conditions"}]]}]]}]]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["language","telugu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["songSlug","pailam-kodukaa","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","NBO3x7Ioerh5QdDtlo7GV",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:T1028,
+పైలం కొడుకా పాపం చేయకురా
+యేసయ్యను నమ్ముకొని మంచిగా బతుకురా
+పైలం కొడుకా పైలం కొడుకా
+పైలం కొడుకా పైలం కొడుకా
+పైలం కొడుకా పాపం చేయకురా
+యేసయ్యను నమ్ముకొని మంచిగా బతుకురా
+నీ మనసు మార్చుకొని మంచిగా బతుకురా
+ఉడుకు రక్తము ఉరుకలు పెడ్తది
+పాపం చెయ్యమని ఒత్తిడి చేస్తది
+పాపమన్నది పాములాంటిది
+పగ పడ్తది ప్రాణం తీస్తది
+||పైలం||
+
+మనిషి జీవితం విలువయ్యింది
+మరువకు కొడుకా మరణమున్నదని
+బ్రతికింది ఇది బ్రతుకు కాదురా
+సచ్చినంక అసలాట ఉంటది
+||పైలం||
+
+కత్తి కన్న పదునెక్కువ కొడుకా
+మనిషి కోపము మంచిది కాదు
+కాలు జారితే తీసుకోవచ్చురా
+నోరు జారితే తీసుకోలేము
+||పైలం||
+
+క్రైస్తవ జీవితం విలువయ్యింది
+నిప్పులాగ బ్రతకాలిరా కొడుకా
+నిప్పులాగ బ్రతకాలిరా కొడుకా
+నిందలన్ని మొయ్యాలిరా కొడుకా
+||పైలం||
+
+విచ్చలవిడిగా తిరుగుతున్నావు
+ఎవరు చూడరని ఎగురుతున్నావు
+చూసే దేవుడేసయ్య ఉన్నడు
+తోలు తీస్తడు జాగ్రత్త కొడుకా
+||పైలం||
+
+గుట్కలు తినకురా గుటుక్కున చస్తావు
+పొగాకు తినకురా పోతవు నరకం
+సినిమా చూడకు చింతలు తప్పవు
+ఫోజులు కొట్టకు పోతవు నరకం
+||పైలం||
+
+కుమ్మరి పురుగు గుణం చూడరా
+బురదల ఉంటది బురదే అంటదు
+తామెర పువ్వు బురుదల ఉంటది
+వరదొస్తే తల వంచుకుంటది
+||పైలం||
+
+ఎన్నో ఆశలు పెట్టుకున్నరా
+సేవ చేస్తే నిను చూడాలని
+నా కలలను కల్ల చెయ్యకు కొడుకా
+కాళ్ళు మొక్కుతా మయ్యగానిరా
+||పైలం||
+
+పొందుకున్నవు రక్షణ నీవు
+పోగొట్టుకోకు పోతవు నరకం
+నరకమంటే ఆషామాషీ కాదురో
+అగ్ని ఆరదు పురుగు చావదు
+||పైలం||
+
+ప్రపంచమంతటా పాపమున్నది
+మందులేని మాయ రోగమున్నది
+నీ పచ్చని జీవితం పాడు చేసుకోకు ఓ కొడకా
+నీవు మంచిగా బ్రతికేసయ్యను మహిమపరచు నా కొడకా
+నీవు సి ఎం అయితే సంతోషముండదు పి ఎం అయితే సంతోషముండదు
+యాక్టర్ అయితే సంతోషముండదు డాక్టర్ అయితే సంతోషముండదు
+నీవు సేవ చేస్తే నేను చూడాలి కొడుకా
+నువ్వు శ్రమలు అనుభవించాలిరా నా కొడుకా
+||పైలం||
+
+
+
+10:T761,
+Pailam Kodukaa Paapam Cheyyakuraa
+Yesayyanu Nammukoni Manchiga Bathukuraa
+Pailam Kodukaa Pailam Kodukaa
+Pailam Kodukaa Pailam Kodukaa
+Pailam Kodukaa Paapam Cheyyakuraa
+Yesayyanu Nammukoni Manchiga Bathukuraa
+Nee Manasu Maarchukoni Manchiga Brathukuraa
+Uduku Rakthamu Urukalu Pedthadi
+Paapam Cheyyamani Votthidi Chesthadi
+Paapamannadi Paamulaantidi
+Paga padthadi Praanam Theesthadi
+||Pailam||
+
+Manishi Jeevitham Viluvayyindi
+Maruvaku Kodukaa Maranamunnadani
+Brathikindi Idi Brathuku Kaaduraa
+Sachchinanka Asalaata Untadi
+||Pailam||
+
+Katthi Kanna Padunekkuva Kodukaa
+Manishi Kopamu Manchidi Kaadu
+Kaalu Jaarithe Theesukovachchuraa
+Noru Jaarithe Theesukolemu
+||Pailam||
+
+Kraisthava Jeevitham Viluvayyindi
+Nippulaaga Brathakaaliraa Kodukaa
+Nippulaaga Brathakaaliraa Kodukaa
+Nindalanni Moyaaliraa Kodukaa
+||Pailam||
+
+Vichchalavidigaa Thiruguthunnavu
+Evaru Choodarani Eguruthunnavu
+Choose Devudesayya Unnadu
+Tholu Theesthadu Jaagrattha Kodukaa
+||Pailam||
+
+Gutkalu Thinakuraa Guttukuna Chasthavu
+Pogaaku Thinakuraa Pothavu Narakam
+Cinimaa Choodaku Chinthalu Thappavu
+Phosulku Kottaku Pothavu Narakam
+||Pailam||
+
+Kummari Purugu Gunam Choodaraa
+Buradala Untadi Burade Antadu
+Thaamera Puvvu Burudala Untadi
+Varadosthe Thala Vanchukuntadi
+||Pailam||
+
+Enno Aashalu Pettukunnaraa
+Seva Chesthe Ninu Choodaalani
+Naa Kalalnu Kalla Cheyyaku Kodukaa
+Kaallu Mokkuthaa Mayyagaaniraa
+||Pailam||
+
+Pondukunnavu Rakshana Neevu
+Pogottukoku Pothavu Narakam
+Narakamante Aashaamaashee Kaaduro
+Agni Aaradu Purugu Chaavadu
+||Pailam||
+
+Prapanchamanthata Paapamunnadi
+Manduleni Maaya Rogamunnadi
+Nee Pachchani Jeevitham Paadu Chesukoku O Kodakaa
+Neevu Manchiga Brathikesayyanu Mahimaparachu Naa Kodakaa
+Neevu CM Aithe Santhoshamundadu PM Aithe Santhoshamundadu
+Actor Aithe Sathoshamundadu Doctor Aithe Santhoshamundadu
+Neevu Seva Chesthe Nenu Choodaali Kodukaa
+Nuvvu Shramalu Anubhavinchaalira Naa Kodukaa
+||Pailam||
+
+
+
+7:["$","div",null,{"className":"grid grid-rows-[20px_1fr_20px] items-start justify-items-start md:justify-items-center min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]","children":["$","main",null,{"className":"flex flex-col gap-10 row-start-2 items-center sm:items-start","children":["$undefined",["$","div",null,{"className":"flex flex-col items-start justify-start gap-10","children":[["$","div",null,{"className":"telugu","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"పైలం కొడుకా"}],["$","pre",null,{"className":" whitespace-pre-wrap leading-10","children":"$f"}]]}],["$","div",null,{"className":"english","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"Pailam Kodukaa."}],["$","pre",null,{"className":"whitespace-pre-wrap leading-9","children":"$10"}]]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"పైలం కొడుకా - Near By GOD"}],["$","meta","2",{"name":"description","content":"Lyrics for పైలం కొడుకా (Pailam Kodukaa.). Browse more Telugu Christian songs on Near By GOD."}],["$","meta","3",{"name":"keywords","content":"పైలం కొడుకా,Pailam Kodukaa.,Telugu Christian songs,Telugu lyrics,Near By GOD"}],["$","meta","4",{"property":"og:title","content":"పైలం కొడుకా - Near By GOD"}],["$","meta","5",{"property":"og:description","content":"Read the lyrics for పైలం కొడుకా in Telugu and English. Watch the video and enjoy!"}],["$","meta","6",{"property":"og:url","content":"https://nani-samireddy.github.io/nbg/songs/telugu/pailam-kodukaa"}],["$","meta","7",{"property":"og:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"పైలం కొడుకా - Song Thumbnail"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"పైలం కొడుకా - Near By GOD"}],["$","meta","13",{"name":"twitter:description","content":"Read the lyrics for పైలం కొడుకా in Telugu and English. Watch the video and enjoy!"}],["$","meta","14",{"name":"twitter:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","15",{"name":"twitter:image:width","content":"1200"}],["$","meta","16",{"name":"twitter:image:height","content":"630"}],["$","meta","17",{"name":"twitter:image:alt","content":"పైలం కొడుకా - Song Thumbnail"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"1080x1080"}]]
+9:null

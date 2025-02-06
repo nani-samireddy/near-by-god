@@ -1,0 +1,132 @@
+1:"$Sreact.fragment"
+2:I[8173,["173","static/chunks/173-3d3988e40b2bb1ff.js","974","static/chunks/app/page-ba26e82c498bd23f.js"],""]
+3:I[7970,["173","static/chunks/173-3d3988e40b2bb1ff.js","239","static/chunks/239-aceb4524bff22d24.js","177","static/chunks/app/layout-3ef2088f1d989583.js"],"Image"]
+4:I[5244,[],""]
+5:I[8725,["39","static/chunks/app/error-75d89c70ed617572.js"],"default"]
+6:I[3866,[],""]
+8:I[6213,[],"OutletBoundary"]
+a:I[6213,[],"MetadataBoundary"]
+c:I[6213,[],"ViewportBoundary"]
+e:I[7401,["219","static/chunks/app/global-error-15ce64c3e8ddbef8.js"],"default"]
+:HL["/_next/static/media/4473ecc91f70f139-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/media/463dafcda517f24f-s.p.woff","font",{"crossOrigin":"","type":"font/woff"}]
+:HL["/_next/static/css/6b2d4f72bcef2e7e.css","style"]
+0:{"P":null,"b":"cKfplIujV9X0x8bTw-qpA","p":"","c":["","songs","telugu","swachchandha-seeyonu-vaasi"],"i":false,"f":[[["",{"children":["songs",{"children":[["language","telugu","d"],{"children":[["songSlug","swachchandha-seeyonu-vaasi","d"],{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/6b2d4f72bcef2e7e.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","meta",null,{"name":"google-site-verification","content":"A7ZYQdelShfthIXnrZ9wH-ywLVWiyrdgmLQCO-Y8QPs"}]}],["$","body",null,{"className":"__variable_1e4310 __variable_c3aa02 antialiased","children":[["$","nav",null,{"className":"flex items-center justify-between px-[4%] md:px-[10%] py-10","children":[["$","$L2",null,{"href":"/","children":["$","$L3",null,{"aria-hidden":true,"src":{"src":"/_next/static/media/logo.793a30c2.svg","height":1080,"width":1763,"blurWidth":0,"blurHeight":0},"alt":"Logo","width":100,"height":100}]}],["$","ul",null,{"className":"flex items-center gap-1 mx-6","children":[["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/","children":["$","span",null,{"className":"text-lg","children":"Songs"}]}]}],["$","li",null,{"className":"hover:bg-slate-200 px-6 py-1 rounded-md transition-all duration-200","children":["$","$L2",null,{"href":"/about","children":["$","span",null,{"className":"text-lg","children":"About"}]}]}]]}]]}],["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$5","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[],["$","div",null,{"children":"404 - Page Not Found"}]],"forbidden":"$undefined","unauthorized":"$undefined"}],["$","footer",null,{"className":"row-start-3 flex gap-6 flex-wrap items-center justify-center text-sm py-10","children":[["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/privacy-policy","target":"_blank","rel":"noopener noreferrer","children":"Privacy Policy"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/report","target":"_blank","rel":"noopener noreferrer","children":"Report"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/contribute","target":"_blank","rel":"noopener noreferrer","children":"Contribute Lyrics"}],["$","$L2",null,{"className":"flex items-center gap-2 hover:underline hover:underline-offset-4","href":"/terms-and-conditions","target":"_blank","rel":"noopener noreferrer","children":"Terms and Conditions"}]]}]]}]]}]]}],{"children":["songs",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["language","telugu","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["songSlug","swachchandha-seeyonu-vaasi","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","songs","children","$0:f:0:1:2:children:2:children:0","children","$0:f:0:1:2:children:2:children:2:children:0","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L7",null,["$","$L8",null,{"children":"$L9"}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","D0es_-79jwq8cVU0Cya47",{"children":[["$","$La",null,{"children":"$Lb"}],["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}]]}],false]],"m":"$undefined","G":["$e",[]],"s":false,"S":true}
+d:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+f:Tcbf,స్వఛ్చంద సీయోను వాసి
+సర్వాధికారి – కస్తూరి పూరాసి (2)
+వర్తమాన భూత భవి-ష్యత్కాల వాసి (2)
+అల్ఫా ఒమేగ తానే (2)
+ఆద్యంతము మన యేసే (2)
+||స్వఛ్చంద||
+
+ఇదిగో నేనొక నిబంధనను
+అద్భుతములు జేతున్ – నీ ప్రజలందరి యెదుట (2)
+పరిశోధింపజాలని మహా – పనులెల్ల ప్రభువే (2)
+లెక్క లేని యద్భుతముల్ (2)
+మక్కువతో చేయువాడు (2)
+||స్వఛ్చంద||
+
+సంగీతం నాదముల తోడ
+సీయోను పురము – సొంపుగను చేరితిమి (2)
+శాశ్వత సంతోషము మా – శిరములపై వెలసెన్ (2)
+దుఃఖము నిట్టూర్పును పోయెన్ (2)
+మిక్కిలి ఆనందము కల్గెన్ (2)
+||స్వఛ్చంద||
+
+నీలముల పునాదులు వేసి
+నీలాంజనములతో – మాణిక్య మణులతో (2)
+సువర్ణ శునీయముల – సూర్య కాంతముతో (2)
+ప్రశస్త రత్నములతో (2)
+ప్రవిమలముగా నిను గట్టెదను (2)
+||స్వఛ్చంద||
+
+సుమముల హారము
+సంతోషానంద తైలము నీదే – స్తుతి వస్త్రమును నీదే (2)
+ఉల్లాస వస్త్రంబు నీదే – విడుదలయి నీదే (2)
+హిత వత్సరము విముక్తి (2)
+ఆత్మాభిషేకము నీదే (2)
+||స్వఛ్చంద||
+
+జలములలో బడి దాటునప్పుడు
+బలమై యుండెదను – నీ తోడై యుండెదను (2)
+నదులలో వెళ్లునప్పుడు – నీపై పారవు (2)
+అగ్ని మధ్యను నడచినను (2)
+జ్వాలలు నిను కాల్చగ లేవు (2)
+||స్వఛ్చంద||
+
+ఇత్తడి తలుపుల బగుల గొట్టెద
+నినుప ఘడియలను – విడగొట్టెదను నేను (2)
+అంధకార స్థలములలో ను-న్నట్టి నిధులను (2)
+రహస్యములో మరుగైన (2)
+ధనమును నీ కొసంగెదను (2)
+||స్వఛ్చంద||
+
+గర్భమున పుట్టినది మొదలు
+తల్లి యొడిలోన – కూర్చుండినది మొదలు (2)
+నేను చంక బెట్టుకొన్న – నాదు ప్రజలారా (2)
+ముదిమి వచ్చుఁ వరకు నిన్ను (2)
+ఎత్తుకొను వాడను నేనే (2)
+||స్వఛ్చంద||
+
+
+10:T660,Swachchandha Seeyonu Vaasi
+Sarvaadhikaari – Kasthoori Pooraasi (2)
+Varthamaana Bhootha Bhavi-shyathkaala Vaasi (2)
+Alphaa Omega Thaane (2)
+Aadhyanthamu Mana Yese (2)
+||Swachchandha||
+
+Idigo Nenoka Nibandhananu
+Adhbhuthamula Jethun – Nee Prajalandhari Yeduta (2)
+Parishodhimpajaalani Mahaa – Panulella Prabhuve (2)
+Lekkal Leni Yadhbhuthamul (2)
+Makkuvatho Cheyuvaadu (2)
+||Swachchandha||
+
+Sangeetham Naadhamula Thoda
+Seeyonu Puramu – Sompuganu Cherithimi (2)
+Shaashwatha Santhoshamu Maa – Shiramulapai Velasen (2)
+Dukhamu Nittoorpunu Poyen (2)
+Mikkili Aanandamu Kalgen (2)
+||Swachchandha||
+
+Neelamula Punaadhulu Vesi
+Neelaanjanamulatho – Maanikya Manulatho (2)
+Suvarna Shuneeyamula – Soorya Kaanthamutho (2)
+Prashastha Rathnamulatho (2)
+Pravimalamuga Ninu Gattedhanu (2)
+||Swachchandha||
+
+Sumamula Haaramu
+Santhoshaanandha Thailamu Needhe – Sthuthi Vasthramunu Needhe (2)
+Ullaasa Vasthrambu Needhe – Vidudhalayu Needhe (2)
+Hitha Vathsaramu Vimukthi (2)
+Aathmaabhishekamu Needhe (2)
+||Swachchandha||
+
+Jalamulalo Badi Daatunappudu
+Balamai Yundedhanu – Nee Thodai Yundedhanu (2)
+Nadhulalo Vellunappudu – Neepai Paaravu (2)
+Agni Madhyanu Nadachinanu (2)
+Jwaalalu Ninu Kaalchaga Levu (2)
+||Swachchandha||
+
+Itthadi Thalupula Bagula Gottedha
+Ninupa Gadiyalanu – Vidagottedhanu Nenu (2)
+Andhakaara Sthalamulalo Nu-nnatti Nidhulanu (2)
+Rahasyamulo Marugaina (2)
+Dhanamunu Nee Kosangedhanu (2)
+||Swachchandha||
+
+Garbhamuna Puttinadhi Modhalu
+Thalli Yodilona – Koorchundinadhi Modhalu (2)
+Nenu Chanka Bettukonna – Naadhu Prajalaaraa (2)
+Mudhimi Vachchu Varaku Ninnu (2)
+Etthukonu Vaadanu Nene (2)
+||Swachchandha||
+
+
+7:["$","div",null,{"className":"grid grid-rows-[20px_1fr_20px] items-start justify-items-start md:justify-items-center min-h-screen p-8 pb-20 font-[family-name:var(--font-geist-sans)]","children":["$","main",null,{"className":"flex flex-col gap-10 row-start-2 items-center sm:items-start","children":["$undefined",["$","div",null,{"className":"flex flex-col items-start justify-start gap-10","children":[["$","div",null,{"className":"telugu","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"స్వఛ్చంద సీయోను వాసి"}],["$","pre",null,{"className":" whitespace-pre-wrap leading-10","children":"$f"}]]}],["$","div",null,{"className":"english","children":[["$","h1",null,{"className":"font-black text-4xl my-6","children":"Swachchandha Seeyonu Vaasi."}],["$","pre",null,{"className":"whitespace-pre-wrap leading-9","children":"$10"}]]}]]}]]}]}]
+b:[["$","meta","0",{"charSet":"utf-8"}],["$","title","1",{"children":"స్వఛ్చంద సీయోను వాసి - Near By GOD"}],["$","meta","2",{"name":"description","content":"Lyrics for స్వఛ్చంద సీయోను వాసి (Swachchandha Seeyonu Vaasi.). Browse more Telugu Christian songs on Near By GOD."}],["$","meta","3",{"name":"keywords","content":"స్వఛ్చంద సీయోను వాసి,Swachchandha Seeyonu Vaasi.,Telugu Christian songs,Telugu lyrics,Near By GOD"}],["$","meta","4",{"property":"og:title","content":"స్వఛ్చంద సీయోను వాసి - Near By GOD"}],["$","meta","5",{"property":"og:description","content":"Read the lyrics for స్వఛ్చంద సీయోను వాసి in Telugu and English. Watch the video and enjoy!"}],["$","meta","6",{"property":"og:url","content":"https://nani-samireddy.github.io/nbg/songs/telugu/swachchandha-seeyonu-vaasi"}],["$","meta","7",{"property":"og:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","8",{"property":"og:image:width","content":"1200"}],["$","meta","9",{"property":"og:image:height","content":"630"}],["$","meta","10",{"property":"og:image:alt","content":"స్వఛ్చంద సీయోను వాసి - Song Thumbnail"}],["$","meta","11",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","12",{"name":"twitter:title","content":"స్వఛ్చంద సీయోను వాసి - Near By GOD"}],["$","meta","13",{"name":"twitter:description","content":"Read the lyrics for స్వఛ్చంద సీయోను వాసి in Telugu and English. Watch the video and enjoy!"}],["$","meta","14",{"name":"twitter:image","content":"https://img.youtube.com/vi/undefined/hqdefault.jpg"}],["$","meta","15",{"name":"twitter:image:width","content":"1200"}],["$","meta","16",{"name":"twitter:image:height","content":"630"}],["$","meta","17",{"name":"twitter:image:alt","content":"స్వఛ్చంద సీయోను వాసి - Song Thumbnail"}],["$","link","18",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"1080x1080"}]]
+9:null
